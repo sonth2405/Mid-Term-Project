@@ -69,6 +69,7 @@ nav h1 {
 #contents {
   width: 100%;
   height: 300px;
+  margin-top: 20px;
 }
 #introduce {
   float: left;
@@ -81,6 +82,7 @@ nav h1 {
   float: right;
   width: 600px;
   height: 100%;
+  margin-top: 15px;
 }
 #hobby ul {
   padding: 0;
@@ -108,15 +110,21 @@ nav h1 {
 }
 #icon1 {
   background-image: url("../src/image/hobby1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 #icon2 {
   background-image: url("../src/image/hobby2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 #icon3 {
   background-image: url("../src/image/hobby3.jpg");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
-footer {
-  width: 100%;
-  height: 100px;
-  background-color: gray;
-}
+
