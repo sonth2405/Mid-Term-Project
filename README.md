@@ -8,3 +8,4 @@
 6. introduce 작성
 7. hobby 작성
 8. hobby style 추가
+9. hobby image 추가
